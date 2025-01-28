@@ -28,7 +28,7 @@ To view any of the landing pages, simply open the `index.html` file in your web 
 
 If you have any questions or would like to get in touch, please feel free to contact me.
 
-- [X](https://x.com/maheshwarisaga4)
-- [LinkedIn](https://www.linkedin.com/in/sagar-maheshwari-1m/)
+- [X](https://x.com/maheshwarisaga4){:target="\_blank"}
+- [LinkedIn](https://www.linkedin.com/in/sagar-maheshwari-1m/){:target="\_blank"}
 
 Enjoy exploring my landing pages!
